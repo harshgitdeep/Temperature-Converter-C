@@ -1,4 +1,4 @@
-# <b>Temperature-Converter</b>
+# <b>Temperature-Converter Using C</b>
 
 Overall, this program allows the user to enter a temperature value and two temperature units to convert between. The program then performs the appropriate conversion and displays the result with the appropriate unit. This program is a good example of using conditional statements to make decisions in a program, and using input/output functions to communicate with the user.
 
